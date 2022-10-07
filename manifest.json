@@ -24,5 +24,6 @@
   "images/favicon/favicon-16x16.png": "/images/favicon/favicon-16x16.png",
   "images/favicon/site.webmanifest": "/images/favicon/site.webmanifest",
   "browserconfig.xml": "/browserconfig.xml",
+  "README.md": "/README.md",
   "robots.txt": "/robots.txt"
 }
